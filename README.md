@@ -14,12 +14,11 @@ To enter admin:
 
 Users:
 
-- totoa (password: totoa) Cliente Classic
-- aguslorca (password: itbank12345) Cliente Gold
-- florencia (password: itbank12345) Cliente Black
-
-juansito (pass: itbank12345)
-mariamarta (pass: itbank12345)
+- totoa (password: totoa) Classic Client
+- aguslorca (password: itbank12345) Gold Client
+- florencia (password: itbank12345) Black Client
+- juansito (pass: itbank12345)
+- mariamarta (pass: itbank12345)
 
 Every user has different types of accounts, cards and loans.
 On admin you can fill the database like you want
