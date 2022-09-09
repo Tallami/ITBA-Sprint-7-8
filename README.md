@@ -1,25 +1,25 @@
-# Sprint-7
+# ITBANK - HOMEBANKING
 
-# Sprint-8
+Homebanking project made mainly with Django and Rest Framework.
 
-Proyecto de Homebanking elaborado en Django.
+To run the project:
 
-Instalaciones antes de ejecutar el proyecto:
-
+pip install django-filter
 pip install django-widget-tweaks
+py manage.py runserver
 
-Para entrar al administrador:
-Usuario: admin
-Contraseña: itbank12345
+To enter admin:
+User: admin
+Password: itbank12345
 
-Usuarios:
+Users:
 
-totoa (pass: totoa) Cliente Classic
-aguslorca (pass: itbank12345) Cliente Gold
-florencia (pass: itbank12345) Cliente Black
+totoa (password: totoa) Cliente Classic
+aguslorca (password: itbank12345) Cliente Gold
+florencia (password: itbank12345) Cliente Black
 
 juansito (pass: itbank12345)
 mariamarta (pass: itbank12345)
 
-Cada usuario tiene tipos de cuentas diferentes. Algunos tienen tarjetas y prestamos asociados a sus cuentas y otros no.
-Entrando en el administrador se pueden rellenar los campos como se deseen.
+Every user has different types of accounts, cards and loans.
+On admin you can fill the database like you want
