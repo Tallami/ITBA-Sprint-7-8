@@ -14,9 +14,9 @@ Password: itbank12345
 
 Users:
 
-totoa (password: totoa) Cliente Classic
-aguslorca (password: itbank12345) Cliente Gold
-florencia (password: itbank12345) Cliente Black
+totoa (password: totoa) Cliente Classic.
+aguslorca (password: itbank12345) Cliente Gold.
+florencia (password: itbank12345) Cliente Black.
 
 juansito (pass: itbank12345)
 mariamarta (pass: itbank12345)
