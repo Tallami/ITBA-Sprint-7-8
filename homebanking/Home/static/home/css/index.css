@@ -167,6 +167,10 @@ button:hover {
   margin: 0px;
   padding: 5px;
 }
+
+.card-body {
+  flex-grow: 0;
+}
 /* Footer */
 
 .flex-column li a {
