@@ -2,6 +2,8 @@
 
 Homebanking project made mainly with Django and Rest Framework.
 
+Link to website: http://tallami.pythonanywhere.com/
+
 To run the project:
 
 - pip install django-filter
