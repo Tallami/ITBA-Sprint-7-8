@@ -40,7 +40,7 @@ def prestamo_view(request):
             else:
                 return redirect(reverse("prestamos_complete")+"?rechazado")
     form = PrestamoForm()
-    return render (request, "Prestamos/prestamos.html", context={"form":form})
+    return render (request, "prestamos/prestamos.html", context={"form":form})
 
 @login_required
 
