@@ -14,8 +14,8 @@ def tarjetas(request):
     cuenta = Cuenta.objects.filter(user_id=user_id)
     tarjeta_id=Tarjetas.objects.filter(user_id=request.user).first()
     if not tarjeta_id is None:
-        return render(request, "Tarjetas/tarjetas.html",{'tarjetas':tarjeta,'cuentas':cuenta})
+        return render(request, "tarjetas/tarjetas.html",{'tarjetas':tarjeta,'cuentas':cuenta})
     else:
-        return render(request, "Tarjetas/solicitar_tarjeta.html",)
+        return render(request, "tarjetas/solicitar_tarjeta.html",)
 
 
